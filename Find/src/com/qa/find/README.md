@@ -1,0 +1,1 @@
+finds if the character is at a given index in the sentence

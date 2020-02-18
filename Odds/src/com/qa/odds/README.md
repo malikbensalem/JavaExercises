@@ -1,0 +1,1 @@
+returns all the odd numbers in the array that is passed in and returns a list format

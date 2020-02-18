@@ -1,0 +1,1 @@
+finds the factorial of the number that is passed in
