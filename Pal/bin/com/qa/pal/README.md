@@ -1,0 +1,1 @@
+checks if the word is a palindrome
