@@ -1,7 +1,9 @@
 package com.qa.odds;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class Runner {
 
@@ -13,13 +15,7 @@ public class Runner {
 		
 
 	}public static List<Integer> odds(int [] oddy){
-		List <Integer> odd=new ArrayList<Integer>();
-		for (int o:oddy) {
-			if ((o%2)!=0) {
-				odd.add(o);
-			}
-		}
-		return odd; 
+		return Arrays.stream(oddy).boxed().filter(num->num%2==1).collect(Collectors.toList());
 	}
 
 }
