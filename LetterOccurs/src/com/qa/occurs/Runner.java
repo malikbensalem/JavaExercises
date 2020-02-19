@@ -1,22 +1,16 @@
 package com.qa.occurs;
 
+import java.util.Arrays;
+import java.util.stream.Collectors;
+
 public class Runner {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println(allLetterOccurs("hello all of you"));
 	}
 
 	public static String allLetterOccurs(String sen) {
-		String a = "";
-		for (int i=0; i < sen.length() ; i++) {
-			if (sen.charAt(i) != ' ') {
-				if (!a.contains(String.valueOf(sen.charAt(i)))) {
-					a += String.valueOf(sen.charAt(i));
-				}
-			}
-		}
-		return a;
+		return Arrays.asList(sen.split("")).stream().distinct().collect(Collectors.joining());
 	}
 
 }
