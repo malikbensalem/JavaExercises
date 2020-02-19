@@ -1,0 +1,1 @@
+returns all armstrong numbers up to the integer given
