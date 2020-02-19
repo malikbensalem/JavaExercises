@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a25d0110-b8e6-41e9-9675-191a306b5b50" name="Default Changelist" comment="">
+      <change beforePath="$USER_HOME$/.classpath" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.project" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ChickRab.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ChickRab.iws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/qa/chickrab/Runner.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Find/.classpath" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Find/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Find/.project" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Find/src/com/qa/find/README.md" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Find/src/com/qa/find/Runner.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.classpath" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_5.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_5.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/libraries/Maven__org_mockito_mockito_core_3_2_4.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.project" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/JDBC.iml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/_classpath(1).xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/_classpath(2).xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/_classpath.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/_project(1).xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/_project(2).xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/_project.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/pom.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/Control.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/Runner.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/Utils.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/daos/MySQLCustomerDAO.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/daos/MySQLItemsDAO.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/daos/MySQLOrderedItemsDAO.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/daos/MySQLOrdersDAO.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/daos/MySQLUsersDAO.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/interfaces/Create.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/interfaces/CreateParam.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/interfaces/CreateReturn.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/interfaces/DAO.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/interfaces/Delete.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/interfaces/Read.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/interfaces/ReadParam.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/interfaces/Update.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/interfaces/UpdateParam.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/IMSV2-master/src/main/java/com/qa/databases/interfaces/UpdateReturn.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/JDBC.iml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/LetterOccurs/.classpath" beforeDir="false" />
+      <change beforePath="$USER_HOME$/LetterOccurs/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/LetterOccurs/.project" beforeDir="false" />
+      <change beforePath="$USER_HOME$/LetterOccurs/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$USER_HOME$/LetterOccurs/src/com/qa/occurs/Runner.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Odds/.classpath" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Odds/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Odds/.project" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Odds/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Odds/src/com/qa/odds/README.md" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Odds/src/com/qa/odds/Runner.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Pal/.classpath" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Pal/.project" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Pal/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Pal/bin/com/qa/pal/README.md" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Pal/bin/com/qa/pal/Runner.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Pal/src/com/qa/pal/README.md" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Pal/src/com/qa/pal/Runner.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/_classpath(1).xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/_classpath(2).xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/_classpath.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/_project(1).xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/_project(2).xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/_project.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/fact/.classpath" beforeDir="false" />
+      <change beforePath="$USER_HOME$/fact/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/fact/.project" beforeDir="false" />
+      <change beforePath="$USER_HOME$/fact/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$USER_HOME$/fact/src/com/qa/fact/README.md" beforeDir="false" />
+      <change beforePath="$USER_HOME$/fact/src/com/qa/fact/Runner.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/pom.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/Control.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/Runner.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/Utils.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/daos/MySQLCustomerDAO.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/daos/MySQLItemsDAO.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/daos/MySQLOrderedItemsDAO.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/daos/MySQLOrdersDAO.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/daos/MySQLUsersDAO.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/interfaces/Create.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/interfaces/CreateParam.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/interfaces/CreateReturn.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/interfaces/DAO.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/interfaces/Delete.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/interfaces/Read.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/interfaces/ReadParam.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/interfaces/Update.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/interfaces/UpdateParam.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/src/main/java/com/qa/databases/interfaces/UpdateReturn.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Y2M3aB24IJIYIdXIo80Q8qqvR5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a25d0110-b8e6-41e9-9675-191a306b5b50" name="Default Changelist" comment="" />
+      <created>1582136037840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582136037840</updated>
+    </task>
+    <servers />
+  </component>
+</project>
