@@ -6,8 +6,8 @@ public class Runner {
 		System.out.println(pal("k kl"));
 		System.out.println(pal(" k k"));
 	}public static boolean pal(String sen) {
-		String noSpace=sen.replaceAll(" ","").toLowerCase();
-		return new StringBuilder(noSpace).reverse().toString().equals(noSpace);
+		sen=sen.replaceAll(" ","").toLowerCase();
+		return new StringBuilder(sen).reverse().toString().equals(sen);
 	}
 
 }
