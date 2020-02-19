@@ -1,0 +1,1 @@
+returns all the letters that occur
