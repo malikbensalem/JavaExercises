@@ -7,6 +7,8 @@ public class Runner {
     }
 
     public static boolean anagram(String a, String b) {
+        a.replace(" ","").toLowerCase();
+        b.replace(" ","").toLowerCase();
         if (a.length() == b.length()) {
             for (;a.length() > 0;) {
                 if (b.contains(String.valueOf(a.charAt(0)))) {
