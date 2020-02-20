@@ -10,10 +10,8 @@ public class Runner {
         if (a.length() == b.length()) {
             for (;a.length() > 0;) {
                 if (b.contains(String.valueOf(a.charAt(0)))) {
-                    int bb=b.indexOf(a.charAt(0));
                     a = new StringBuilder(a).deleteCharAt(0).toString();
-                    b = new StringBuilder(b).deleteCharAt(bb).toString();
-
+                    b = new StringBuilder(b).deleteCharAt(b.indexOf(a.charAt(0))).toString();
                 } else {
                     return false;
                 }
