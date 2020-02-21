@@ -9,13 +9,11 @@ public class Runner {
 	}
 
 	public static int fib(int pos) {
+		int[] nums = { 0, 1, 0 };
 		if (pos >= 0) {
-			int[] nums = { 0, 1, 0 };
 			for (int i = 0; i <= pos; i++, nums[2] = nums[0], nums[0] = nums[1], nums[1] += nums[2]) {
 			}
-			return nums[2];
-		}
-		return -1;
+		}return nums[2];
 	}
 
 }
